@@ -12,7 +12,6 @@ Things you need to run the Android Project:
 Dependencies:
   - node & npm required
   - MongoDB required
-  - 
 TO Start the Application:
   - npm start (Terminal)
   - cd Administrator && npm start (new Terminal)
