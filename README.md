@@ -4,7 +4,7 @@
   - Add & Remove Companies
   - List of Companies in Grid format
 
-Things you need to run the Android Project:
+Things you need to run the Project:
   - Customer Login
   - Add ,Edit & Remove Jobs
   - List of Jobs in Grid format
